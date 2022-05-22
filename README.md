@@ -8,3 +8,5 @@ PS_oracleDBFunctions.ps1 - call the stored procedure, return datatable type
 
 PS_zipFileFunc.ps1 - used to zip and encrypt audit output (requirment was to send via email client)
 
+Please refer to wiki page for overall folder setup and other information
+
